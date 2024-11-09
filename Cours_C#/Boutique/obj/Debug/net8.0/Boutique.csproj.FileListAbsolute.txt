@@ -1,0 +1,14 @@
+C:\Users\majag\Videos\Cours_C#\Boutique\obj\Debug\net8.0\Boutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majag\Videos\Cours_C#\Boutique\obj\Debug\net8.0\Boutique.AssemblyInfoInputs.cache
+C:\Users\majag\Videos\Cours_C#\Boutique\obj\Debug\net8.0\Boutique.AssemblyInfo.cs
+C:\Users\majag\Videos\Cours_C#\Boutique\obj\Debug\net8.0\Boutique.csproj.CoreCompileInputs.cache
+C:\Users\majag\Videos\Cours_C#\Boutique\bin\Debug\net8.0\Boutique.exe
+C:\Users\majag\Videos\Cours_C#\Boutique\bin\Debug\net8.0\Boutique.deps.json
+C:\Users\majag\Videos\Cours_C#\Boutique\bin\Debug\net8.0\Boutique.runtimeconfig.json
+C:\Users\majag\Videos\Cours_C#\Boutique\bin\Debug\net8.0\Boutique.dll
+C:\Users\majag\Videos\Cours_C#\Boutique\bin\Debug\net8.0\Boutique.pdb
+C:\Users\majag\Videos\Cours_C#\Boutique\obj\Debug\net8.0\Boutique.dll
+C:\Users\majag\Videos\Cours_C#\Boutique\obj\Debug\net8.0\refint\Boutique.dll
+C:\Users\majag\Videos\Cours_C#\Boutique\obj\Debug\net8.0\Boutique.pdb
+C:\Users\majag\Videos\Cours_C#\Boutique\obj\Debug\net8.0\Boutique.genruntimeconfig.cache
+C:\Users\majag\Videos\Cours_C#\Boutique\obj\Debug\net8.0\ref\Boutique.dll
