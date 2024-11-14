@@ -1,0 +1,57 @@
+/home/elolo/Bureau/ism/csharp/bin/Debug/net8.0/csharp
+/home/elolo/Bureau/ism/csharp/bin/Debug/net8.0/csharp.deps.json
+/home/elolo/Bureau/ism/csharp/bin/Debug/net8.0/csharp.runtimeconfig.json
+/home/elolo/Bureau/ism/csharp/bin/Debug/net8.0/csharp.dll
+/home/elolo/Bureau/ism/csharp/bin/Debug/net8.0/csharp.pdb
+/home/elolo/Bureau/ism/csharp/obj/Debug/net8.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/elolo/Bureau/ism/csharp/obj/Debug/net8.0/csharp.AssemblyInfoInputs.cache
+/home/elolo/Bureau/ism/csharp/obj/Debug/net8.0/csharp.AssemblyInfo.cs
+/home/elolo/Bureau/ism/csharp/obj/Debug/net8.0/csharp.csproj.CoreCompileInputs.cache
+/home/elolo/Bureau/ism/csharp/obj/Debug/net8.0/csharp.dll
+/home/elolo/Bureau/ism/csharp/obj/Debug/net8.0/refint/csharp.dll
+/home/elolo/Bureau/ism/csharp/obj/Debug/net8.0/csharp.pdb
+/home/elolo/Bureau/ism/csharp/obj/Debug/net8.0/csharp.genruntimeconfig.cache
+/home/elolo/Bureau/ism/csharp/obj/Debug/net8.0/ref/csharp.dll
+/home/elolo/Bureau/ism/csharp/cours_1/bin/Debug/net8.0/csharp
+/home/elolo/Bureau/ism/csharp/cours_1/bin/Debug/net8.0/csharp.deps.json
+/home/elolo/Bureau/ism/csharp/cours_1/bin/Debug/net8.0/csharp.runtimeconfig.json
+/home/elolo/Bureau/ism/csharp/cours_1/bin/Debug/net8.0/csharp.dll
+/home/elolo/Bureau/ism/csharp/cours_1/bin/Debug/net8.0/csharp.pdb
+/home/elolo/Bureau/ism/csharp/cours_1/obj/Debug/net8.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/elolo/Bureau/ism/csharp/cours_1/obj/Debug/net8.0/csharp.AssemblyInfoInputs.cache
+/home/elolo/Bureau/ism/csharp/cours_1/obj/Debug/net8.0/csharp.AssemblyInfo.cs
+/home/elolo/Bureau/ism/csharp/cours_1/obj/Debug/net8.0/csharp.csproj.CoreCompileInputs.cache
+/home/elolo/Bureau/ism/csharp/cours_1/obj/Debug/net8.0/csharp.dll
+/home/elolo/Bureau/ism/csharp/cours_1/obj/Debug/net8.0/refint/csharp.dll
+/home/elolo/Bureau/ism/csharp/cours_1/obj/Debug/net8.0/csharp.pdb
+/home/elolo/Bureau/ism/csharp/cours_1/obj/Debug/net8.0/csharp.genruntimeconfig.cache
+/home/elolo/Bureau/ism/csharp/cours_1/obj/Debug/net8.0/ref/csharp.dll
+/home/elolo/Bureau/CSharp/cours_1/bin/Debug/net8.0/csharp
+/home/elolo/Bureau/CSharp/cours_1/bin/Debug/net8.0/csharp.deps.json
+/home/elolo/Bureau/CSharp/cours_1/bin/Debug/net8.0/csharp.runtimeconfig.json
+/home/elolo/Bureau/CSharp/cours_1/bin/Debug/net8.0/csharp.dll
+/home/elolo/Bureau/CSharp/cours_1/bin/Debug/net8.0/csharp.pdb
+/home/elolo/Bureau/CSharp/cours_1/obj/Debug/net8.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/elolo/Bureau/CSharp/cours_1/obj/Debug/net8.0/csharp.AssemblyInfoInputs.cache
+/home/elolo/Bureau/CSharp/cours_1/obj/Debug/net8.0/csharp.AssemblyInfo.cs
+/home/elolo/Bureau/CSharp/cours_1/obj/Debug/net8.0/csharp.csproj.CoreCompileInputs.cache
+/home/elolo/Bureau/CSharp/cours_1/obj/Debug/net8.0/csharp.sourcelink.json
+/home/elolo/Bureau/CSharp/cours_1/obj/Debug/net8.0/csharp.dll
+/home/elolo/Bureau/CSharp/cours_1/obj/Debug/net8.0/refint/csharp.dll
+/home/elolo/Bureau/CSharp/cours_1/obj/Debug/net8.0/csharp.pdb
+/home/elolo/Bureau/CSharp/cours_1/obj/Debug/net8.0/csharp.genruntimeconfig.cache
+/home/elolo/Bureau/CSharp/cours_1/obj/Debug/net8.0/ref/csharp.dll
+C:\Users\majag\3D Objects\ISM_CSHARP_24_25-master\ISM_CSHARP_24_25-master\cours_1\bin\Debug\net8.0\csharp.exe
+C:\Users\majag\3D Objects\ISM_CSHARP_24_25-master\ISM_CSHARP_24_25-master\cours_1\bin\Debug\net8.0\csharp.deps.json
+C:\Users\majag\3D Objects\ISM_CSHARP_24_25-master\ISM_CSHARP_24_25-master\cours_1\bin\Debug\net8.0\csharp.runtimeconfig.json
+C:\Users\majag\3D Objects\ISM_CSHARP_24_25-master\ISM_CSHARP_24_25-master\cours_1\bin\Debug\net8.0\csharp.dll
+C:\Users\majag\3D Objects\ISM_CSHARP_24_25-master\ISM_CSHARP_24_25-master\cours_1\bin\Debug\net8.0\csharp.pdb
+C:\Users\majag\3D Objects\ISM_CSHARP_24_25-master\ISM_CSHARP_24_25-master\cours_1\obj\Debug\net8.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majag\3D Objects\ISM_CSHARP_24_25-master\ISM_CSHARP_24_25-master\cours_1\obj\Debug\net8.0\csharp.AssemblyInfoInputs.cache
+C:\Users\majag\3D Objects\ISM_CSHARP_24_25-master\ISM_CSHARP_24_25-master\cours_1\obj\Debug\net8.0\csharp.AssemblyInfo.cs
+C:\Users\majag\3D Objects\ISM_CSHARP_24_25-master\ISM_CSHARP_24_25-master\cours_1\obj\Debug\net8.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\majag\3D Objects\ISM_CSHARP_24_25-master\ISM_CSHARP_24_25-master\cours_1\obj\Debug\net8.0\csharp.dll
+C:\Users\majag\3D Objects\ISM_CSHARP_24_25-master\ISM_CSHARP_24_25-master\cours_1\obj\Debug\net8.0\refint\csharp.dll
+C:\Users\majag\3D Objects\ISM_CSHARP_24_25-master\ISM_CSHARP_24_25-master\cours_1\obj\Debug\net8.0\csharp.pdb
+C:\Users\majag\3D Objects\ISM_CSHARP_24_25-master\ISM_CSHARP_24_25-master\cours_1\obj\Debug\net8.0\csharp.genruntimeconfig.cache
+C:\Users\majag\3D Objects\ISM_CSHARP_24_25-master\ISM_CSHARP_24_25-master\cours_1\obj\Debug\net8.0\ref\csharp.dll
